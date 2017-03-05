@@ -69,7 +69,7 @@
 				<ul class="nav navbar-nav navbar-right">
 		
 					<li class="dropdown">
-						<a href="index.html" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+						<a href="index.html">Home</a>
 						<!--<ul class="dropdown-menu" role="menu">-->
 							<!--<li class="dropdown">-->
 								<!--<a href="#" class="dropdown-toggle" data-toggle="dropdown">Multi Page</a>-->
@@ -101,7 +101,7 @@
 					<!--<li><a href="services.html">Services</a></li>-->
 		
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+						<a href="#" data-attr-scroll="portfolio" class="scrollto">Portfolio</a>
 						<!--<ul class="dropdown-menu" role="menu">-->
 							<!--<li class="dropdown">-->
 								<!--<a href="#" class="dropdown-toggle" data-toggle="dropdown">Wide</a>-->
@@ -398,7 +398,7 @@
 		<!-- /RESUME -->
 
 		<!-- PORTFOLIO -->
-		<section id="portfolio" class="module module-w p-b-0">
+		<section id="portfolio" class="module module-w p-b-0"  data-anchor-offset="100">
 			<div class="container">
 
 				<!-- MODULE TITLE -->
@@ -1266,6 +1266,26 @@
 	<script src="assets/js/submenu-fix.js"></script>
 	<script src="assets/js/contact.js"></script>
 	<script src="assets/js/custom.js"></script>
+
+	<script>
+	jQuery(document).ready(function($) {
+	$(".scrollto").click(function(event) {
+	event.preventDefault();
+
+	var defaultAnchorOffset = 0;
+
+	var anchor = $(this).attr('data-attr-scroll');
+
+	var anchorOffset = $('#'+anchor).attr('data-scroll-offset');
+	if (!anchorOffset)
+	anchorOffset = defaultAnchorOffset;
+
+	$('html,body').animate({
+	scrollTop: $('#'+anchor).offset().top - anchorOffset
+	}, 500);
+	});
+	});
+	</script>
 
 </body>
 </html>
