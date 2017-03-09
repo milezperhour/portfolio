@@ -2,7 +2,7 @@
 
 My web development portfolio showcases my applications and technical services.
 
-## Key Technologies
+## Technologies
 
 - HTML
 - CSS
