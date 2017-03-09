@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656b0d5c-678d-4d9d-b2dd-90a286c6824a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Site/assets/js/customScrollTo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/SGT" afterPath="$PROJECT_DIR$/Site/SGT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/calculator" afterPath="$PROJECT_DIR$/Site/calculator" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/guess" afterPath="$PROJECT_DIR$/Site/guess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/memory_match" afterPath="$PROJECT_DIR$/Site/memory_match" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/tictactoe" afterPath="$PROJECT_DIR$/Site/tictactoe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/assets/css/style.css" afterPath="$PROJECT_DIR$/Site/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/index.html" afterPath="$PROJECT_DIR$/Site/index.html" />
     </list>
     <ignored path="portfolio.iws" />
@@ -36,8 +36,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
+            <state relative-caret-position="529">
+              <caret line="1273" column="7" selection-start-line="1273" selection-start-column="7" selection-end-line="1273" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customScrollTo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Site/assets/js/customScrollTo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -66,6 +76,7 @@
         <option value="$PROJECT_DIR$/Site/SGT/script.js" />
         <option value="$PROJECT_DIR$/Site/SGT/index.html" />
         <option value="$PROJECT_DIR$/Site/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/Site/assets/js/customScrollTo.js" />
         <option value="$PROJECT_DIR$/Site/index.html" />
       </list>
     </option>
@@ -78,7 +89,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="16" />
+    <option name="x" value="24" />
     <option name="y" value="23" />
     <option name="width" value="1286" />
     <option name="height" value="817" />
@@ -168,6 +179,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Site" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Documentation" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -182,6 +215,49 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -203,15 +279,15 @@
       <workItem from="1488907820547" duration="547000" />
       <workItem from="1488935651300" duration="697000" />
       <workItem from="1489008234815" duration="2402000" />
-      <workItem from="1489021058329" duration="2503000" />
+      <workItem from="1489021058329" duration="2903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14795000" />
+    <option name="totallyTimeSpent" value="15195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="16" y="23" width="1286" height="817" extended-state="0" />
+    <frame x="24" y="23" width="1286" height="817" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27813506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -456,10 +532,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Site/assets/js/customScrollTo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" column="85" selection-start-line="36" selection-start-column="85" selection-end-line="36" selection-end-column="85" />
+        <state relative-caret-position="529">
+          <caret line="1273" column="7" selection-start-line="1273" selection-start-column="7" selection-end-line="1273" selection-end-column="7" />
           <folding />
         </state>
       </provider>
