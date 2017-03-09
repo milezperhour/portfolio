@@ -1131,7 +1131,7 @@ p.copyright {
 }
 
 .work-title {
-	font-size: 16px;
+	font-size: 25px;
 	margin: 0 0 5px;
 	-webkit-transform: translateY(10px);
 	   -moz-transform: translateY(10px);
@@ -1140,12 +1140,16 @@ p.copyright {
 }
 
 .work-category {
-	font-size: 14px;
+	font-size: 20px;
 	margin: 0;
 	-webkit-transform: translateY(-10px);
 	   -moz-transform: translateY(-10px);
 	    -ms-transform: translateY(-10px);
 	        transform: translateY(-10px);
+}
+
+.work-category a:hover{
+	text-decoration:underline;
 }
 
 .work-title,
