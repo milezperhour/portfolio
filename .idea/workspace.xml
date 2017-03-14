@@ -11,7 +11,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/memory_match" afterPath="$PROJECT_DIR$/Site/memory_match" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/tictactoe" afterPath="$PROJECT_DIR$/Site/tictactoe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Site/index.html" afterPath="$PROJECT_DIR$/Site/index.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,15 +32,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Site/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="734" column="154" selection-start-line="734" selection-start-column="154" selection-end-line="734" selection-end-column="154" />
+              <folding>
+                <element signature="e#23002#23008#0" expanded="true" />
+                <element signature="e#23863#23869#0" expanded="true" />
+                <element signature="e#24004#24010#0" expanded="true" />
+                <element signature="e#24724#24730#0" expanded="true" />
+                <element signature="e#24862#24868#0" expanded="true" />
+                <element signature="e#25562#25568#0" expanded="true" />
+                <element signature="e#25701#25707#0" expanded="true" />
+                <element signature="e#26393#26399#0" expanded="true" />
+                <element signature="e#26525#26531#0" expanded="true" />
+                <element signature="e#27201#27207#0" expanded="true" />
+                <element signature="e#27905#27911#0" expanded="true" />
+                <element signature="e#28043#28049#0" expanded="true" />
+                <element signature="e#28751#28757#0" expanded="true" />
+                <element signature="e#28885#28891#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,11 +70,11 @@
         <option value="$PROJECT_DIR$/Site/SGT/index.html" />
         <option value="$PROJECT_DIR$/Site/assets/js/customScrollTo.js" />
         <option value="$PROJECT_DIR$/Site/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/Site/index.html" />
         <option value="$PROJECT_DIR$/Site/SGT/script.js" />
         <option value="$PROJECT_DIR$/Site/mBoutique/style.css" />
         <option value="$PROJECT_DIR$/Site/mBoutique/gifts_parties.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Site/index.html" />
       </list>
     </option>
   </component>
@@ -74,7 +86,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1691" />
+    <option name="x" value="1354" />
     <option name="y" value="23" />
     <option name="width" value="1577" />
     <option name="height" value="956" />
@@ -104,8 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,6 +168,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,24 +251,25 @@
       <workItem from="1489092676641" duration="1038000" />
       <workItem from="1489094037555" duration="6345000" />
       <workItem from="1489115596029" duration="512000" />
-      <workItem from="1489174008139" duration="35000" />
+      <workItem from="1489174008139" duration="194000" />
+      <workItem from="1489451139721" duration="1305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24289000" />
+    <option name="totallyTimeSpent" value="25753000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1691" y="23" width="1577" height="956" extended-state="0" />
-    <editor active="false" />
+    <frame x="1354" y="23" width="1577" height="956" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24039088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2436482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5902778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5902778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -482,13 +495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="1247" column="4" selection-start-line="1247" selection-start-column="4" selection-end-line="1247" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Site/SGT/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-256">
@@ -535,10 +541,32 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="60">
-            <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-            <folding />
+            <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="734" column="154" selection-start-line="734" selection-start-column="154" selection-end-line="734" selection-end-column="154" />
+          <folding>
+            <element signature="e#23002#23008#0" expanded="true" />
+            <element signature="e#23863#23869#0" expanded="true" />
+            <element signature="e#24004#24010#0" expanded="true" />
+            <element signature="e#24724#24730#0" expanded="true" />
+            <element signature="e#24862#24868#0" expanded="true" />
+            <element signature="e#25562#25568#0" expanded="true" />
+            <element signature="e#25701#25707#0" expanded="true" />
+            <element signature="e#26393#26399#0" expanded="true" />
+            <element signature="e#26525#26531#0" expanded="true" />
+            <element signature="e#27201#27207#0" expanded="true" />
+            <element signature="e#27905#27911#0" expanded="true" />
+            <element signature="e#28043#28049#0" expanded="true" />
+            <element signature="e#28751#28757#0" expanded="true" />
+            <element signature="e#28885#28891#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
