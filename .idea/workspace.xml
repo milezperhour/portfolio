@@ -26,13 +26,16 @@
     <favorites_list name="portfolio" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="743" column="200" selection-start-line="743" selection-start-column="200" selection-end-line="743" selection-end-column="200" />
-              <folding />
+            <state relative-caret-position="216">
+              <caret line="679" column="44" selection-start-line="679" selection-start-column="44" selection-end-line="679" selection-end-column="44" />
+              <folding>
+                <marker date="1489695597000" expanded="false" signature="23021:23032" ph="..." />
+                <marker date="1489695597000" expanded="false" signature="27477:27488" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,7 +70,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1529" />
+    <option name="x" value="1453" />
     <option name="y" value="23" />
     <option name="width" value="1577" />
     <option name="height" value="956" />
@@ -97,8 +100,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -230,18 +233,19 @@
       <workItem from="1489536557392" duration="161000" />
       <workItem from="1489536869615" duration="30000" />
       <workItem from="1489612547503" duration="235000" />
-      <workItem from="1489613324939" duration="49000" />
+      <workItem from="1489613324939" duration="181000" />
+      <workItem from="1489695553972" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33999000" />
+    <option name="totallyTimeSpent" value="34184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1529" y="23" width="1577" height="956" extended-state="0" />
+    <frame x="1453" y="23" width="1577" height="956" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29381108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29771987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -541,9 +545,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Site/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="743" column="200" selection-start-line="743" selection-start-column="200" selection-end-line="743" selection-end-column="200" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="679" column="44" selection-start-line="679" selection-start-column="44" selection-end-line="679" selection-end-column="44" />
+          <folding>
+            <marker date="1489695597000" expanded="false" signature="23021:23032" ph="..." />
+            <marker date="1489695597000" expanded="false" signature="27477:27488" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
